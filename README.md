@@ -6,6 +6,8 @@ USB to Serial Converter(PR55-68 or any USB to serial) Windows PC
 
 Note: if the file name has any special char, please remove it
 
+On hardware -- Debug port is used for firmware update 
+
 How to put in program mode
 
 Start the programming utility.
